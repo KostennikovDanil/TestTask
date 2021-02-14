@@ -1,0 +1,13 @@
+C:\Users\Rio\source\repos\SimbirSoftTask\SimbirSoftTask\bin\Debug\netcoreapp3.1\SimbirSoftTask.exe
+C:\Users\Rio\source\repos\SimbirSoftTask\SimbirSoftTask\bin\Debug\netcoreapp3.1\SimbirSoftTask.deps.json
+C:\Users\Rio\source\repos\SimbirSoftTask\SimbirSoftTask\bin\Debug\netcoreapp3.1\SimbirSoftTask.runtimeconfig.json
+C:\Users\Rio\source\repos\SimbirSoftTask\SimbirSoftTask\bin\Debug\netcoreapp3.1\SimbirSoftTask.runtimeconfig.dev.json
+C:\Users\Rio\source\repos\SimbirSoftTask\SimbirSoftTask\bin\Debug\netcoreapp3.1\SimbirSoftTask.dll
+C:\Users\Rio\source\repos\SimbirSoftTask\SimbirSoftTask\bin\Debug\netcoreapp3.1\SimbirSoftTask.pdb
+C:\Users\Rio\source\repos\SimbirSoftTask\SimbirSoftTask\obj\Debug\netcoreapp3.1\SimbirSoftTask.AssemblyInfoInputs.cache
+C:\Users\Rio\source\repos\SimbirSoftTask\SimbirSoftTask\obj\Debug\netcoreapp3.1\SimbirSoftTask.AssemblyInfo.cs
+C:\Users\Rio\source\repos\SimbirSoftTask\SimbirSoftTask\obj\Debug\netcoreapp3.1\SimbirSoftTask.dll
+C:\Users\Rio\source\repos\SimbirSoftTask\SimbirSoftTask\obj\Debug\netcoreapp3.1\SimbirSoftTask.pdb
+C:\Users\Rio\source\repos\SimbirSoftTask\SimbirSoftTask\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\Rio\source\repos\SimbirSoftTask\SimbirSoftTask\obj\Debug\netcoreapp3.1\SimbirSoftTask.csproj.CopyComplete
+C:\Users\Rio\source\repos\SimbirSoftTask\SimbirSoftTask\obj\Debug\netcoreapp3.1\SimbirSoftTask.csprojAssemblyReference.cache
